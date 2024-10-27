@@ -112,6 +112,8 @@ const songs = [
     loadSong(currentSongIndex);
     playPauseSong(); 
   }
+
+ 
   
   
   loadSong(currentSongIndex);
