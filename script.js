@@ -57,8 +57,8 @@ const songs = [
     {
       title: "O Mahi O Mahi",
       artist: "Arijit Singh",
-      cover: "./assets/o Mahi.jpg",
-      src: "./assets/o Mahi.mp3"
+      cover: "./assets/omahi.jpg",
+      src: "./assets/omahi.mp3"
     }
   ];
   
