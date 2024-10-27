@@ -55,10 +55,10 @@ const songs = [
       src: "./assets/haijunoon.mp3"
     },
     {
-      title: "O Mahi O Mahi",
-      artist: "Arijit Singh",
-      cover: "./assets/omahi.jpg",
-      src: "./assets/omahi.mp3"
+      title: "Desi Kalakaar",
+      artist: "Yo Yo Honey Singh",
+      cover: "./assets/desikalakaar.jpeg",
+      src: "./assets/desikalakaar.mp3"
     }
   ];
   
